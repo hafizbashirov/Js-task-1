@@ -1,0 +1,14 @@
+#square{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    
+}
+
+
+#widthx, #heightx, #bgColorx, #positionx, #topx, #leftx, #rightx, #bottomx, #borderx, #bordercolorx,  #transitionx, button {
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: -80px;
+    
+}
